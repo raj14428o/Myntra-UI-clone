@@ -23,7 +23,7 @@ This is **not an official Myntra website**. All logos, product images, and brand
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 <img width="1910" height="1087" alt="image" src="https://github.com/user-attachments/assets/7a52b23f-3fea-4d74-8466-e764a3f82479" />
 <img width="1901" height="1088" alt="image" src="https://github.com/user-attachments/assets/3c2346f1-7663-4889-a5a5-ab681d04e1e2" />
 
@@ -32,8 +32,12 @@ This is **not an official Myntra website**. All logos, product images, and brand
 
 ## 📂 Project Structure
 ```
-├── index.html
-├── style.css
+├── index.html # Main page
+├── style.css # Main styling
+├── utils.css # Reusable utility classes
+├── logo.jpeg # Myntra logo (for header)
+├── logo1.jpg # Alternate logo
+├── home.png # Screenshot of homepage
 └── README.md
 ```
 
